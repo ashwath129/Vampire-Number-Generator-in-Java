@@ -21,3 +21,6 @@ To run :
 In cmd/terminal 
 javac vn.java
 java vn
+
+NOTE: You can change vstart and vend in the source to change the ranges for which you need the vampire numbers.
+Correspondingly you must change START and END parameters to change the fang length ranges pertaining to the vampire number ranges.
